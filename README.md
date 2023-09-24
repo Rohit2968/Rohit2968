@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rohit2968
+- 👋 Hi, I’m Rohit Kumar.
 - 👀 I’m interested in Developing Apps, Websites,etc.
 - 🌱 I’m currently learning DSA & Web Development
-- 💞️ I’m looking to collaborate For Good DSA project to add on Resume
-- 📫 How to reach me :- Just text me on Linkedin
+- 💞️ I’m looking for a collaboration to create good DSA projects.
+- 📫 How to reach me :- Just text me on Linkedln
 
 <!---
 Rohit2968/Rohit2968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
