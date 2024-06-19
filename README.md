@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Rohit Kumar pursuing my B. Tech Degree.<br>I’m interested in Developing Apps, Websites, etc.<br>I’m currently learning DSA and web Development.<br>I’m looking for a collaboration to create good DSA projects.<br>How to reach me:- Just text me on LinkedIn.
+Hi, I’m Rohit Kumar pursuing my BE Degree.<br>I’m interested in Developing Apps, Websites, etc.<br>I’m currently learning DSA and web Development.<br>I’m looking for a collaboration to create good DSA projects.<br>How to reach me:- Just text me on LinkedIn.
 
 
 ## 🌐 Socials:
