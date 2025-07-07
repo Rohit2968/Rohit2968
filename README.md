@@ -23,6 +23,7 @@ I participate in Hackathons and really like team work and public speaking.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2968&langs_count=8&layout=compact&border_radius=40&theme=radical&length=80)](https://github.com/Rohit2968/github-readme-stats)
 
 
-# Connect with me!!!
-<a href="https://www.linkedin.com/in/rohit-kumar-8b604a275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="42"></a>
-<a href="https://github.com/Rohit2968" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="42"></a>
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-8b604a275/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit2968)
