@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓 Final-year Computer Science undergrad at Chandigarh University
-💻 Passionate about Web Development and Problem Solving
-🚀 Currently exploring modern technologies and frameworks used in the IT industry
-🏆 Hackathon enthusiast who enjoys teamwork and public speaking
+🛠️ Tech Stack: C/C++, JavaScript, React.js, Node.js, MongoDB, Express.js, MySQL, PHP
+💻 Passionate about Full-Stack Web Development & Competitive Programming
+🏆 Hackathon enthusiast
 
 
 ## 🌐 Socials:
