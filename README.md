@@ -1,8 +1,8 @@
 # 💫 About Me <br>
 🎓 Final-year Computer Science undergrad at Chandigarh University <br>
+🧠 Code Alchemist – Turning logic into digital reality <br>
 🛠️ Tech Stack: C/C++, JavaScript, React.js, Node.js, MongoDB, Express.js, MySQL, PHP <br>
-💻 Passionate about Full-Stack Web Development & Competitive Programming <br>
-🏆 Hackathon enthusiast
+💻 Passionate about Full-Stack Web Development & Competitive Programming 
 
 
 ## 🌐 Socials:
